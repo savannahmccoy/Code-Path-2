@@ -1,17 +1,17 @@
-# Project 2 - *Name of App Here*
+# Project 2 - *Flixy*
 
-**Name of your app** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+**Flixy** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-- [x ] User can view a list of movies currently playing in theaters from The Movie Database.
-- [x ] Poster images are loaded using the UIImageView category in the AFNetworking library.
-- [x ] User sees a loading state while waiting for the movies API.
-- [x ] User can pull to refresh the movie list.
+- [x] User can view a list of movies currently playing in theaters from The Movie Database.
+- [x] Poster images are loaded using the UIImageView category in the AFNetworking library.
+- [x] User sees a loading state while waiting for the movies API.
+- [x] User can pull to refresh the movie list.
 
 The following **optional** features are implemented:
 
@@ -40,7 +40,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I experienced a challenge when creating the Pull-to-Refresh feature
+I experienced challenge when creating the Pull-to-Refresh feature
 
 ## Credits
 
