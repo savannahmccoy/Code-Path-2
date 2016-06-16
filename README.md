@@ -2,6 +2,8 @@
 
 **Flixy** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
+Submitted by **Savannah McCoy**
+
 Time spent: **5** hours spent in total
 
 ## User Stories
