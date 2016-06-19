@@ -10,6 +10,11 @@ import UIKit
 
 class FlixyCell: UITableViewCell {
 
+    @IBOutlet weak var TitleLabel: UILabel!
+    @IBOutlet weak var OverviewLabel: UILabel!
+    @IBOutlet weak var PosterView: UIImageView!
+    
+    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
